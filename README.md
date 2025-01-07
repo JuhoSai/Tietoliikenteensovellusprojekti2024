@@ -4,6 +4,8 @@ Projekti on toteutettu kahden hengen ryhmässä.
 
 Antti Niiranen, Juho Sainmaa
 
+Alkuperäinen projekti kansio GitHubissa: https://github.com/Cvennn/tietoliikenteensovellus2024
+
 ## Projektin aihe
 Projektin aiheena on luoda anturidataa käsittelevä client, välittäen dataa langattomasti reitittimelle(Raspberry Pi). Reititin välittää datan tietokantaan, josta data noudetaan ja käsitellään clientillä.
 Tietokantaan luodaan TCP-rajapinta ja HTTP API. Kerättyä dataa haetaan kannettavaan koodatulla ohjelmalla ja käytetään koneoppimistarkoituksiin.
